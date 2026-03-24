@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "zoo",
+  "base_artist": "菅原圭",
+  "createdAt": "2026-03-24T05:31:51.774316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Petting Zoo Justice",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/01_Petting_Zoo_Justice_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/02_Zoo_York_(feat._Fivio_Foreign_&_Pop_Smoke)_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brooklyn Zoo",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": true,
+      "path": "select/03_Brooklyn_Zoo_Ol'_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brooklyn Zoo II (Tiger Crane)",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": true,
+      "path": "select/04_Brooklyn_Zoo_II_(Tiger_Crane)_Ol’_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brooklyn Zoo II (Tiger Crane) (feat. Ghostface Killah)",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": true,
+      "path": "select/05_Brooklyn_Zoo_II_(Tiger_Crane)_(feat._Ghostface_Killah)_Ol'_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Proteck Ya Neck II the Zoo",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": true,
+      "path": "select/06_Proteck_Ya_Neck_II_the_Zoo_Ol’_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Proteck Ya Neck II the Zoo (feat. Sunz Of Man, 12 O'Clock, Buddah Monk & Brooklyn Zu)",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": false,
+      "path": "select/07_Proteck_Ya_Neck_II_the_Zoo_(feat._Sunz_Of_Man,_12_O'Clock,_Buddah_Monk_&_Brookly_Ol'_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zoo Station",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/08_Zoo_Station_U2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "At the Zoo",
+      "artist": "Simon & Garfunkel",
+      "has_synced": false,
+      "path": "select/09_At_the_Zoo_Simon_&_Garfunkel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Human Zoo",
+      "artist": "Culture Club & Boy George",
+      "has_synced": true,
+      "path": "select/10_Human_Zoo_Culture_Club_&_Boy_George.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Human Zoo",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/11_Human_Zoo_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zoo",
+      "artist": "CURVE",
+      "has_synced": true,
+      "path": "select/12_Zoo_CURVE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Go To The Zoo",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Scott Michael Foster",
+      "has_synced": true,
+      "path": "select/13_I_Go_To_The_Zoo_Crazy_Ex-Girlfriend_Cast_feat._Scott_Michael_Foster.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Zoo",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/14_The_Zoo_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Christmas At The Zoo",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/15_Christmas_At_The_Zoo_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Song About Zoo",
+      "artist": "Felix",
+      "has_synced": false,
+      "path": "select/16_Song_About_Zoo_Felix.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pimple Zoo",
+      "artist": "Guided By Voices",
+      "has_synced": true,
+      "path": "select/17_Pimple_Zoo_Guided_By_Voices.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "zoo",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_zoo_菅原_圭.txt"
+    }
+  ]
+}
