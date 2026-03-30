@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "zoo",
   "base_artist": "菅原圭",
-  "createdAt": "2026-03-24T05:31:51.774316Z",
+  "createdAt": "2026-03-30T16:44:59.919734Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "菅原 圭",
       "has_synced": false,
       "path": "select/pl_01_zoo_菅原_圭.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "zoo",
+      "artist": "菅原圭",
+      "has_synced": false,
+      "path": "select/localdb_01_zoo_菅原圭.txt",
+      "repo_name": "r8yhEqHIJVc"
     }
   ]
 }
